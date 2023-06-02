@@ -11,4 +11,4 @@ add the data and mode 'a' and write it
 # override
 add the data in same file and write it
 # Exception Handling
-Understaing the error and Try and except statements are used to catch and handle exceptions in Python. 
+Understanding the error and Try and except statements are used to catch and handle exceptions in Python. 
